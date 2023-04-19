@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T18:43:28.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="CWItkzqC4doUsSAD1E66" version="21.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-19T18:44:25.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ceS9emKWho1JleAswukh" version="21.2.0" type="github" pages="3">
   <diagram id="3klK-0NJ4z30A51jgqtV" name="OMOPonFHIR">
     <mxGraphModel dx="1274" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,9 +187,6 @@
         </mxCell>
         <mxCell id="FfvTaXvVDCtGII3iPvOa-2" value="NODE&lt;br&gt;&lt;div&gt;&lt;ul style=&quot;list-style: none; padding-left: 0px; margin: 0px;&quot;&gt;&lt;li&gt;t2.small&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeColor=#CC6600;fontColor=#FFFFFF;fillColor=#ffb266;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="FfvTaXvVDCtGII3iPvOa-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="125" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sv2wLbNIDCHNCKOGKFO0-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;fontColor=#FFFFFF;endArrow=classic;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="FfvTaXvVDCtGII3iPvOa-1" target="FfvTaXvVDCtGII3iPvOa-2">
           <mxGeometry relative="1" as="geometry">
