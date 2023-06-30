@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T21:52:56.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.5.0" etag="k3HYG8WJIWeykwPRzrMa" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-30T21:55:36.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.5.0" etag="ARh9rj6EC4bz23yTMnJ0" type="github" pages="8">
   <diagram id="3klK-0NJ4z30A51jgqtV" name="OMOPonFHIR">
     <mxGraphModel dx="1274" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1029,6 +1029,19 @@
         </mxCell>
         <mxCell id="yWiESEy0GsFH53m51OCW-59" value="&lt;font&gt;release&lt;br&gt;v2.0.0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=2;fontColor=#FFB366;fontStyle=1" vertex="1" parent="P1YZ-SfPQfquyaB6_5HJ-1">
           <mxGeometry x="580" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3dL2q1dVhGLgWxHyELHt-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="P1YZ-SfPQfquyaB6_5HJ-1">
+          <mxGeometry x="300" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3dL2q1dVhGLgWxHyELHt-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="3dL2q1dVhGLgWxHyELHt-0" target="3dL2q1dVhGLgWxHyELHt-2" parent="P1YZ-SfPQfquyaB6_5HJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="810" as="sourcePoint" />
+            <mxPoint x="315" y="860" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dL2q1dVhGLgWxHyELHt-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="P1YZ-SfPQfquyaB6_5HJ-1">
+          <mxGeometry x="300" y="840" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
