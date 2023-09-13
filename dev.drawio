@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T21:25:35.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gooccmvSPf-So4E_uSc4" version="21.7.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-13T21:25:51.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="BNACVHS3TTOStdV_5pWb" version="21.7.1" type="github" pages="11">
   <diagram id="3klK-0NJ4z30A51jgqtV" name="OMOPonFHIR">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,6 +197,14 @@
             <mxPoint x="443" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DcPtNyU16qTe1RgE-tNN" name="Gen3">
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -571,14 +579,6 @@
         <mxCell id="DcahVCa4sFDVHlkI-u1N-44" value="&lt;div style=&quot;font-size: 17px;&quot; align=&quot;left&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ACED + Gen3-Helm&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;Uses their Helm repository.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Pros:&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Less maintenance long term&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Less code, we would only have the following in our repo:&lt;/font&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Secrets directory&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;ETL Chart/Pod&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Cons:&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;Less control over release updates and schedule&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Verdana&quot;&gt;An update &lt;font color=&quot;#99ccff&quot;&gt;&lt;b&gt;upstream&lt;/b&gt;&lt;/font&gt; would be pulled into our &lt;font color=&quot;#ff9933&quot;&gt;&lt;b&gt;deployments&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="660" width="300" height="320" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="DcPtNyU16qTe1RgE-tNN" name="Gen3">
-    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
